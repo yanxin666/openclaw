@@ -1,0 +1,26 @@
+# macOS 系统文件
+.DS_Store
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# openclaw 日志和缓存
+logs/
+update-check.json
+*.bak
+
+# 认证和密钥（如有敏感信息）
+credentials/
+
+# 临时和会话文件
+agents/main/agent/sessions/
+
+# 其他可选忽略项
+*.swp
+*.swo
+
+# 你可以根据实际情况继续补充
+.idea
