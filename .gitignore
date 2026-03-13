@@ -23,4 +23,4 @@ agents/main/agent/sessions/
 *.swo
 
 # 你可以根据实际情况继续补充
-.idea
+.idea/

@@ -1358,3 +1358,42 @@
 2026-03-13T16:23:13.650+08:00 [ws] ⇄ res ✓ node.list 59ms conn=56ad4a19…0037 id=f6c46a1a…0e54
 2026-03-13T16:24:13.867+08:00 [ws] ⇄ res ✓ node.list 99ms conn=56ad4a19…0037 id=a854e76e…34d6
 2026-03-13T16:26:13.711+08:00 [ws] ⇄ res ✓ node.list 91ms conn=56ad4a19…0037 id=5d407a0f…9500
+2026-03-13T16:30:13.770+08:00 [ws] ⇄ res ✓ node.list 69ms conn=56ad4a19…0037 id=aa0e0068…1d8c
+2026-03-13T16:31:13.772+08:00 [ws] ⇄ res ✓ node.list 69ms conn=56ad4a19…0037 id=8051ab0e…dc58
+2026-03-13T16:31:49.077+08:00 [info]: [ '[ws]', 'reconnect' ]
+2026-03-13T16:32:06.327+08:00 [info]: [ '[ws]', 'reconnect' ]
+2026-03-13T16:34:13.770+08:00 [ws] ⇄ res ✓ node.list 74ms conn=56ad4a19…0037 id=31953db9…baa7
+2026-03-13T16:34:16.847+08:00 [info]: [ '[ws]', 'reconnect' ]
+2026-03-13T16:35:13.652+08:00 [ws] ⇄ res ✓ node.list 73ms conn=56ad4a19…0037 id=91e88e44…0900
+2026-03-13T16:36:13.761+08:00 [ws] ⇄ res ✓ node.list 51ms conn=56ad4a19…0037 id=34f79f25…d281
+2026-03-13T16:38:13.779+08:00 [ws] ⇄ res ✓ node.list 80ms conn=56ad4a19…0037 id=c6fd68be…a5fb
+2026-03-13T16:42:13.758+08:00 [ws] ⇄ res ✓ node.list 64ms conn=56ad4a19…0037 id=d7634b53…0b31
+2026-03-13T16:44:13.672+08:00 [ws] ⇄ res ✓ node.list 53ms conn=56ad4a19…0037 id=1a4ff710…c6a8
+2026-03-13T16:45:13.811+08:00 [ws] ⇄ res ✓ node.list 93ms conn=56ad4a19…0037 id=acc99621…7d57
+2026-03-13T16:46:13.720+08:00 [ws] ⇄ res ✓ node.list 53ms conn=56ad4a19…0037 id=e89a30f3…a2ae
+2026-03-13T16:50:00.600+08:00 [info]: [ '[ws]', 'reconnect' ]
+2026-03-13T16:53:13.725+08:00 [ws] ⇄ res ✓ node.list 63ms conn=56ad4a19…0037 id=737087c2…3c76
+2026-03-13T16:54:13.828+08:00 [ws] ⇄ res ✓ node.list 106ms conn=56ad4a19…0037 id=015c500d…f788
+2026-03-13T16:55:13.768+08:00 [ws] ⇄ res ✓ node.list 96ms conn=56ad4a19…0037 id=ee9579df…1bf7
+2026-03-13T16:57:13.730+08:00 [ws] ⇄ res ✓ node.list 86ms conn=56ad4a19…0037 id=af776a64…2ab0
+2026-03-13T16:58:13.887+08:00 [ws] ⇄ res ✓ node.list 67ms conn=56ad4a19…0037 id=deb3761e…2c30
+2026-03-13T17:04:13.744+08:00 [ws] ⇄ res ✓ node.list 90ms conn=56ad4a19…0037 id=05ad059c…b2ad
+2026-03-13T17:05:13.688+08:00 [ws] ⇄ res ✓ node.list 75ms conn=56ad4a19…0037 id=1b64b2a7…0b92
+2026-03-13T17:15:13.817+08:00 [ws] ⇄ res ✓ node.list 104ms conn=56ad4a19…0037 id=a5e96ad7…4c19
+2026-03-13T17:16:13.766+08:00 [ws] ⇄ res ✓ node.list 76ms conn=56ad4a19…0037 id=af72d185…386d
+2026-03-13T17:17:13.731+08:00 [ws] ⇄ res ✓ node.list 59ms conn=56ad4a19…0037 id=57c9d35b…e3e5
+2026-03-13T17:18:13.845+08:00 [ws] ⇄ res ✓ node.list 57ms conn=56ad4a19…0037 id=2670630e…3289
+2026-03-13T17:21:13.741+08:00 [ws] ⇄ res ✓ node.list 73ms conn=56ad4a19…0037 id=0e6d51c5…ea33
+2026-03-13T17:29:13.733+08:00 [ws] ⇄ res ✓ node.list 90ms conn=56ad4a19…0037 id=8e2bd8f2…52ec
+2026-03-13T17:34:13.776+08:00 [ws] ⇄ res ✓ node.list 83ms conn=56ad4a19…0037 id=b671e781…1b9e
+2026-03-13T17:35:13.839+08:00 [ws] ⇄ res ✓ node.list 81ms conn=56ad4a19…0037 id=c1f2c783…9e40
+2026-03-13T17:40:13.734+08:00 [ws] ⇄ res ✓ node.list 52ms conn=56ad4a19…0037 id=f04537bb…be3b
+2026-03-13T17:44:13.792+08:00 [ws] ⇄ res ✓ node.list 59ms conn=56ad4a19…0037 id=7a2ce335…fcd1
+2026-03-13T17:45:13.751+08:00 [ws] ⇄ res ✓ node.list 112ms conn=56ad4a19…0037 id=d576501d…6e60
+2026-03-13T17:47:13.734+08:00 [ws] ⇄ res ✓ node.list 89ms conn=56ad4a19…0037 id=465c3af0…4f36
+2026-03-13T17:50:13.693+08:00 [ws] ⇄ res ✓ node.list 66ms conn=56ad4a19…0037 id=4ddf2e66…c829
+2026-03-13T17:52:13.795+08:00 [ws] ⇄ res ✓ node.list 96ms conn=56ad4a19…0037 id=512371db…c0f7
+2026-03-13T17:53:13.758+08:00 [ws] ⇄ res ✓ node.list 78ms conn=56ad4a19…0037 id=98927004…af0c
+2026-03-13T17:54:13.746+08:00 [ws] ⇄ res ✓ node.list 52ms conn=56ad4a19…0037 id=0ed76d83…0503
+2026-03-13T17:56:13.828+08:00 [ws] ⇄ res ✓ node.list 96ms conn=56ad4a19…0037 id=edfe6ff4…a540
+2026-03-13T17:57:13.863+08:00 [ws] ⇄ res ✓ node.list 56ms conn=56ad4a19…0037 id=a8358d0b…6ab8
