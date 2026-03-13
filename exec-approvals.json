@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "socket": {
+    "path": "/Users/yanxin/.openclaw/exec-approvals.sock",
+    "token": "rDGt3_r0W-4KZkSJuto2MY-zwdMm1StG"
+  },
+  "defaults": {},
+  "agents": {}
+}
